@@ -35,7 +35,7 @@
         - Values should be given in Kilograms.
         - Used when the vehicle collides with another vehicle or a non-static object. 
       -->
-      <fMass value="4522.000000" /> <!-- Previous Value="1650.000000" -->
+      <fMass value="4522.000000" /> 
 
       <!-- fInitialDragCoeff
       Sets the drag coefficient of the vehicle. Increase to simulate aerodynamic drag.
